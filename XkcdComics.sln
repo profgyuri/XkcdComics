@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XkcdComics.Library", "XkcdComics.Library\XkcdComics.Library.csproj", "{33F33E79-0F2F-43A3-B4FD-746B730B977B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XkcdComics.UI", "XkcdComics.UI\XkcdComics.UI.csproj", "{0A369F92-0647-4994-884E-A9E6263B9C5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F33E79-0F2F-43A3-B4FD-746B730B977B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F33E79-0F2F-43A3-B4FD-746B730B977B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F33E79-0F2F-43A3-B4FD-746B730B977B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F33E79-0F2F-43A3-B4FD-746B730B977B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A369F92-0647-4994-884E-A9E6263B9C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A369F92-0647-4994-884E-A9E6263B9C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A369F92-0647-4994-884E-A9E6263B9C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A369F92-0647-4994-884E-A9E6263B9C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC68357-F1CB-485A-9E64-7D1934BE8B44}
+	EndGlobalSection
+EndGlobal
